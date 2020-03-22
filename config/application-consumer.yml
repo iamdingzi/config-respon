@@ -16,3 +16,10 @@ eureka:
 logging:
   level:
     com.example.consumer: debug
+
+
+data:
+  env: test
+  user:
+    username: username1
+    password: password1
